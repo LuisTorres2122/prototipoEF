@@ -1,0 +1,5 @@
+C:\Users\luist\Desktop\carpeta\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+C:\Users\luist\Desktop\carpeta\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+C:\Users\luist\Desktop\carpeta\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.CoreCompileInputs.cache
+C:\Users\luist\Desktop\carpeta\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+C:\Users\luist\Desktop\carpeta\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.pdb
